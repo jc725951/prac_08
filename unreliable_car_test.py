@@ -34,6 +34,9 @@ def main():
         print("{:12} drove {:2}km".format(bad_car.name, bad_car.drive(i)))
 
 
+
+    # Final stage of car
+
     print(good_car)
 
     print(bad_car)
